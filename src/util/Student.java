@@ -1,7 +1,6 @@
 package util;
 
 import javafx.scene.image.Image;
-
 import java.awt.*;
 
 public class Student
